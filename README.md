@@ -1,99 +1,38 @@
-# Título do projeto
+# Titanic
 
-Um parágrafo da descrição do projeto vai aqui
+Com base na história do Titanic e de um dataset com informações reais sobre uma parte de seus passageiros, criamos alguns insights com foco nos sobreviventes que mostram quais classes, genêros e idades tiveram mais chances, assim como a relação entre essas três variáveis.
 
 ## 🚀 Começando
 
-Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
-
-Consulte **Implantação** para saber como implantar o projeto.
+Utilizaremos o Google Colab para a leitura e execução do Notebook.
 
 ### 📋 Pré-requisitos
 
-De que coisas você precisa para instalar o software e como instalá-lo?
+- Conectividade com a Internet.
+
+### 🔧 Modo de Usar
+
+Utilizando um browser de internet abra o seguinte link:
 
 ```
-Dar exemplos
+https://colab.research.google.com/github/katayamajunior/Repo_Titanic/blob/Master/Titanic.ipynb
 ```
-
-### 🔧 Instalação
-
-Uma série de exemplos passo-a-passo que informam o que você deve executar para ter um ambiente de desenvolvimento em execução.
-
-Diga como essa etapa será:
-
-```
-Dar exemplos
-```
-
-E repita:
-
-```
-Até finalizar
-```
-
-Termine com um exemplo de como obter dados do sistema ou como usá-los para uma pequena demonstração.
-
-## ⚙️ Executando os testes
-
-Explicar como executar os testes automatizados para este sistema.
-
-### 🔩 Analise os testes de ponta a ponta
-
-Explique que eles verificam esses testes e porquê.
-
-```
-Dar exemplos
-```
-
-### ⌨️ E testes de estilo de codificação
-
-Explique que eles verificam esses testes e porquê.
-
-```
-Dar exemplos
-```
-
-## 📦 Desenvolvimento
-
-Adicione notas adicionais sobre como implantar isso em um sistema ativo
+Leia e execute o Notebook na sequência, pois existem comandos que são dependentes dos anteriores.
+Caso aconteça um erro, recomece do primeiro comando.
 
 ## 🛠️ Construído com
 
-Mencione as ferramentas que você usou para criar seu projeto
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - O framework web usado
-* [Maven](https://maven.apache.org/) - Gerente de Dependência
-* [ROME](https://rometools.github.io/rome/) - Usada para gerar RSS
-
-## 🖇️ Colaborando
-
-Por favor, leia o [COLABORACAO.md](https://gist.github.com/usuario/linkParaInfoSobreContribuicoes) para obter detalhes sobre o nosso código de conduta e o processo para nos enviar pedidos de solicitação.
-
-## 📌 Versão
-
-Nós usamos [SemVer](http://semver.org/) para controle de versão. Para as versões disponíveis, observe as [tags neste repositório](https://github.com/suas/tags/do/projeto). 
+* [Google Colab](https://colab.research.google.com/?utm_source=scs-index/) - Notebook construído e homologado .
+* [GitHub](https://github.com//) - Repositório e Controlador de Versões
+* [Markdown](https://dillinger.io/) - Editor de Markdown
 
 ## ✒️ Autores
 
-Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
+* **Desenvolvido por** - [Paulo Katsuo Katayama Junior](https://github.com/linkParaPerfil)
 
-* **Um desenvolvedor** - *Trabalho Inicial* - [umdesenvolvedor](https://github.com/linkParaPerfil)
-* **Fulano De Tal** - *Documentação* - [fulanodetal](https://github.com/linkParaPerfil)
+## 🎁 Agradecimentos
 
-Você também pode ver a lista de todos os [colaboradores](https://github.com/usuario/projeto/colaboradores) que participaram deste projeto.
-
-## 📄 Licença
-
-Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](https://github.com/usuario/projeto/licenca) para detalhes.
-
-## 🎁 Expressões de gratidão
-
-* Conte a outras pessoas sobre este projeto 📢
-* Convide alguém da equipe para uma cerveja 🍺 
-* Obrigado publicamente 🤓.
-* etc.
-
+* Obrigado a **Deus**!
+* Obrigado ao **Mestre Johannes Von Locher**, pelo compartilhamento do conhecimento e dedicação com seus alunos!
 
 ---
-⌨️ com ❤️ por [Armstrong Lohãns](https://gist.github.com/lohhans) 😊
